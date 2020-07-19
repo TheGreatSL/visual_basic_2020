@@ -1,0 +1,11 @@
+D:\Thegreat\ep1.3\ep1.3\bin\Debug\ep1.3.exe.config
+D:\Thegreat\ep1.3\ep1.3\bin\Debug\ep1.3.exe
+D:\Thegreat\ep1.3\ep1.3\bin\Debug\ep1.3.pdb
+D:\Thegreat\ep1.3\ep1.3\bin\Debug\ep1.3.xml
+D:\Thegreat\ep1.3\ep1.3\obj\Debug\ep1.3.vbprojResolveAssemblyReference.cache
+D:\Thegreat\ep1.3\ep1.3\obj\Debug\WindowsApplication1.Form1.resources
+D:\Thegreat\ep1.3\ep1.3\obj\Debug\WindowsApplication1.Resources.resources
+D:\Thegreat\ep1.3\ep1.3\obj\Debug\ep1.3.vbproj.GenerateResource.Cache
+D:\Thegreat\ep1.3\ep1.3\obj\Debug\ep1.3.exe
+D:\Thegreat\ep1.3\ep1.3\obj\Debug\ep1.3.xml
+D:\Thegreat\ep1.3\ep1.3\obj\Debug\ep1.3.pdb

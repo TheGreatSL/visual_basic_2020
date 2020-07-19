@@ -1,0 +1,10 @@
+D:\Thegreat\ep4-4\ep4-4\bin\Debug\ep4-4.exe.config
+D:\Thegreat\ep4-4\ep4-4\bin\Debug\ep4-4.exe
+D:\Thegreat\ep4-4\ep4-4\bin\Debug\ep4-4.pdb
+D:\Thegreat\ep4-4\ep4-4\bin\Debug\ep4-4.xml
+D:\Thegreat\ep4-4\ep4-4\obj\Debug\WindowsApplication1.Form1.resources
+D:\Thegreat\ep4-4\ep4-4\obj\Debug\WindowsApplication1.Resources.resources
+D:\Thegreat\ep4-4\ep4-4\obj\Debug\ep4-4.vbproj.GenerateResource.Cache
+D:\Thegreat\ep4-4\ep4-4\obj\Debug\ep4-4.exe
+D:\Thegreat\ep4-4\ep4-4\obj\Debug\ep4-4.xml
+D:\Thegreat\ep4-4\ep4-4\obj\Debug\ep4-4.pdb

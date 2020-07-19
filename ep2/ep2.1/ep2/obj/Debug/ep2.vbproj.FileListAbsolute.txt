@@ -1,0 +1,16 @@
+C:\Users\Lenovo-13\AppData\Local\Temporary Projects\ep2\bin\Debug\ep2.exe.config
+D:\Thegreat\ep2\ep2\bin\Debug\ep2.exe.config
+D:\Thegreat\ep2\ep2\obj\Debug\ep2.vbprojResolveAssemblyReference.cache
+D:\Thegreat\ep2\ep2\obj\Debug\ep2.Form1.resources
+D:\Thegreat\ep2\ep2\obj\Debug\ep2.Resources.resources
+D:\Thegreat\ep2\ep2\obj\Debug\ep2.vbproj.GenerateResource.Cache
+D:\Thegreat\ep2\ep2\bin\Debug\ep2.exe
+D:\Thegreat\ep2\ep2\bin\Debug\ep2.pdb
+D:\Thegreat\ep2\ep2\bin\Debug\ep2.xml
+D:\Thegreat\ep2\ep2\obj\Debug\ep2.exe
+D:\Thegreat\ep2\ep2\obj\Debug\ep2.xml
+D:\Thegreat\ep2\ep2\obj\Debug\ep2.pdb
+D:\Thegreat\ep2.1\ep2\bin\Debug\ep2.exe.config
+D:\Thegreat\ep2.1\ep2\obj\Debug\ep2.exe
+D:\Thegreat\ep2.1\ep2\obj\Debug\ep2.xml
+D:\Thegreat\ep2.1\ep2\obj\Debug\ep2.pdb
